@@ -21,6 +21,8 @@ http://covid-rlp.herokuapp.com/api/...(Landkreise/RLPData)
 
 ## Why?
 * I wanted to work with beautifulsoup, pandas, matplotlib and django-rest-framework - that's all...
+* dataset is not complete
+* just for fun project 
 
 ## miscellaneous
 * This very cool project: https://github.com/django-import-export/django-import-export allows you to import/export data as csv from the admin-interface
